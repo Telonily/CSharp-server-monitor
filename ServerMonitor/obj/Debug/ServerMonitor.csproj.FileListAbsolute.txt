@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\ServerMonitor\ServerMonitor\bin\Debug\ServerMonitor.exe.config
+C:\Users\User\source\repos\ServerMonitor\ServerMonitor\bin\Debug\ServerMonitor.exe
+C:\Users\User\source\repos\ServerMonitor\ServerMonitor\bin\Debug\ServerMonitor.pdb
+C:\Users\User\source\repos\ServerMonitor\ServerMonitor\obj\Debug\ServerMonitor.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\ServerMonitor\ServerMonitor\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\ServerMonitor\ServerMonitor\obj\Debug\App.g.cs
+C:\Users\User\source\repos\ServerMonitor\ServerMonitor\obj\Debug\ServerMonitor_MarkupCompile.cache
+C:\Users\User\source\repos\ServerMonitor\ServerMonitor\obj\Debug\ServerMonitor_MarkupCompile.lref
+C:\Users\User\source\repos\ServerMonitor\ServerMonitor\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\ServerMonitor\ServerMonitor\obj\Debug\ServerMonitor.g.resources
+C:\Users\User\source\repos\ServerMonitor\ServerMonitor\obj\Debug\ServerMonitor.Properties.Resources.resources
+C:\Users\User\source\repos\ServerMonitor\ServerMonitor\obj\Debug\ServerMonitor.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ServerMonitor\ServerMonitor\obj\Debug\ServerMonitor.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ServerMonitor\ServerMonitor\obj\Debug\ServerMonitor.exe
+C:\Users\User\source\repos\ServerMonitor\ServerMonitor\obj\Debug\ServerMonitor.pdb

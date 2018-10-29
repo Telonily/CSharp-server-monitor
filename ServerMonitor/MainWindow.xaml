@@ -1,0 +1,28 @@
+﻿<Window x:Class="ServerMonitor.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ServerMonitor"
+        mc:Ignorable="d"
+        Title="Server Monitor" MinHeight="400" MinWidth="450" Height="500" Width="450">
+    
+    
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+
+        </Grid.RowDefinitions>
+        
+
+        <TextBox Grid.Row="0" IsReadOnly="True" TextWrapping="Wrap" Name="TbInfo" Height="200"/>
+        <TextBlock Grid.Row="1" Name="TbServerInfo" />
+        <TextBox Grid.Row="2" IsReadOnly="True" TextWrapping="Wrap" Name="TbPlayers" Height="Auto" Margin="0"/>
+
+
+    </Grid>
+
+</Window>
